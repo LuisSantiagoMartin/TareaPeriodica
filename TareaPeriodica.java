@@ -27,3 +27,4 @@ public abstract class TareaPeriodica implements Runnable {
 
     public abstract int ejecutarTarea();
 }
+ 
